@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.bg-create-new-task {
+  background: linear-gradient(180deg, #4C38C2 0%, #2F2188 100%);
+}
+
+.ant-modal-content {
+  padding: 20px 10px !important;
+}
